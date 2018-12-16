@@ -1,0 +1,32 @@
+Step by Step Execution :
+
+1. For executing this file you require a server supporting PHP and Javascript 
+   You can make a server by WAMP server software.
+
+2. In That server You have to Create a database for storing facebook user data
+   Create a database with following values :
+	Database name : database1
+	table name : table1
+	columns : id,name,email,gender (All datatype as varchar)
+
+3. After Creating database you need to write the server name and userpassword into the code.
+
+4. Now execute the WebTest.php file with the help of server. 
+
+5 It will ask you to login. the logged in facebook user's data will store in our database, with taking permissions from user.
+
+6. this program is still in development mode in facbook Graph API therefore you need to login with the Test User Account
+
+id : hkdhyzccko_1544956173@tfbnw.net
+id : pdwdpkfuzr_1544956172@tfbnw.net
+id : eohegtpokc_1544956175@tfbnw.net
+id : lrofmqkxov_1544956177@tfbnw.net
+
+password : test@123
+
+the password is same for all
+
+7. If you want then you can change the user profile on loggin into there account and check the functionality of the task as per your validation.
+
+8. on cliking the data will store in database.
+
